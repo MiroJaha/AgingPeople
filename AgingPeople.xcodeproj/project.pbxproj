@@ -16,6 +16,7 @@
 		8461FFBC275E7FF600853E6F /* AgingPeopleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8461FFBB275E7FF600853E6F /* AgingPeopleTests.swift */; };
 		8461FFC6275E7FF600853E6F /* AgingPeopleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8461FFC5275E7FF600853E6F /* AgingPeopleUITests.swift */; };
 		8461FFC8275E7FF600853E6F /* AgingPeopleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8461FFC7275E7FF600853E6F /* AgingPeopleUITestsLaunchTests.swift */; };
+		8461FFD5275E82B000853E6F /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8461FFD4275E82B000853E6F /* CustomTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8461FFC1275E7FF600853E6F /* AgingPeopleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AgingPeopleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8461FFC5275E7FF600853E6F /* AgingPeopleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgingPeopleUITests.swift; sourceTree = "<group>"; };
 		8461FFC7275E7FF600853E6F /* AgingPeopleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgingPeopleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8461FFD4275E82B000853E6F /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				8461FFA4275E7FF400853E6F /* AppDelegate.swift */,
 				8461FFA6275E7FF400853E6F /* SceneDelegate.swift */,
 				8461FFA8275E7FF400853E6F /* ViewController.swift */,
+				8461FFD4275E82B000853E6F /* CustomTableViewCell.swift */,
 				8461FFAA275E7FF400853E6F /* Main.storyboard */,
 				8461FFAD275E7FF500853E6F /* Assets.xcassets */,
 				8461FFAF275E7FF500853E6F /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				8461FFA9275E7FF400853E6F /* ViewController.swift in Sources */,
 				8461FFA5275E7FF400853E6F /* AppDelegate.swift in Sources */,
+				8461FFD5275E82B000853E6F /* CustomTableViewCell.swift in Sources */,
 				8461FFA7275E7FF400853E6F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
